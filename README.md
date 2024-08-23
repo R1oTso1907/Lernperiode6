@@ -11,8 +11,8 @@
  
 ## 16.8.2024
 
-Da ich finde, dass das Modul 320 einer der schwersten Module ist, möchte ich es nochmals anschauen und mich bisschen mehr damit auseinander setzen. Heute werde ich die nächsten Aufgaben lösen. 
+Da ich finde, dass das Modul 320 einer der schwersten Module ist, möchte ich es nochmals anschauen und mich bisschen mehr damit auseinander setzen. Heute werde ich die nächsten Aufgaben lösen.
 
 ## 23.8.2024
 
-Heute möchte ich mich ebenfalls mit dem Modul 320 weiterfahren. 
+Heute möchte ich mich ebenfalls mit dem Modul 320 weiterfahren. Ich möchte mich verbessern und ein kleines Projekt, wie man das in den Aufgaben M320_VGV gemacht haben, machen. Da ich finde, dass in diesem Modul es wichtig ist zu programmieren. 
