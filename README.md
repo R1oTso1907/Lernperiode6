@@ -19,4 +19,4 @@ Heute möchte ich mich ebenfalls mit dem Modul 320 weiterfahren. Ich möchte mic
 
 ## 30.8.2024
 
-Ich habe ein Projekt begonnen zu programmiere, in dem verschiedene Elemente der OOP verwende. In meinem 'Spiel' geht es um das Erstellen eines charakters. Man kann den Namen, das Volk und seine Waffe aussuchen. Heute möchte ich mich vorallem mit dem namen und dem Aussuchen des Volkes auseinandersetzen. 
+Ich habe ein Projekt begonnen zu programmieren, in dem ich erschiedene Elemente der OOP verwende. In meinem 'Spiel' geht es um das Erstellen eines charakters. Man kann den Namen, das Volk und seine Waffe aussuchen. Heute möchte ich mein zuvor angefangenes Projekt beenden. Ich werde Heute die Funktion Rüstung und Waffe programmieren. 
