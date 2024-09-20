@@ -20,3 +20,17 @@ Heute möchte ich mich ebenfalls mit dem Modul 320 weiterfahren. Ich möchte mic
 ## 30.8.2024
 
 Ich habe ein Projekt begonnen zu programmieren, in dem ich erschiedene Elemente der OOP verwende. In meinem 'Spiel' geht es um das Erstellen eines charakters. Man kann den Namen, das Volk und seine Waffe aussuchen. Heute möchte ich mein zuvor angefangenes Projekt beenden. Ich werde Heute die Funktion Rüstung und Waffe programmieren. 
+
+## 06.09.2024
+
+Heute habe ich mein Projekt erweitert, in dem ich auch Gegner hinzugefügt habe. Diese Können jetzt auch eine jeweilige Anzahl leben. 
+
+## 13.09.2024
+
+Am heutigen Morgen habe ich mich hauptsätzlich mit dem Modul 322 beschäftigt, da nächste Woche die LB starten wird. Insbesondere das Thema SMART-Methoden formulieren oder auch der Aufbau und die Unterschiede der jeweiligen Prototypen waren wichtig und relativ schwer für mich diese im Detail zu verstehen. 
+
+## 20.09.2024
+
+
+
+
